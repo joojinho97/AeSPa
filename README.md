@@ -9,12 +9,12 @@
  <br/>
   
  <p align="center">    
-   ![Qualitative results](./img/knee.png)
+   [Qualitative results](./img/knee.png)
 </p>
 
 
  <p align="center">    
-   ![Qualitative results](./img/brain.png)
+   [Qualitative results](./img/brain.png)
 </p>
 
  <br/>
