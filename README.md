@@ -10,14 +10,14 @@
  #### \* denotes equal contribution, \** denotes corresponding authors  
 
 <p align="center"><img src='img/knee.png' width="85%" height="85%"></p>
-<p align="center"><img src='imgs/brain.png' width="85%" height="85%"></p>
+<p align="center"><img src='img/brain.png' width="85%" height="85%"></p>
 
 ## Our Goal
 We propose a novel zero-shot scan-specific self-supervised reconstruction method for magnetic resonance imaging to reduce scan times.
 We use only undersampled k-space for training and evaluation.
 
 ## EKGAN Architecture
-<p align="center"><img src='imgs/fig-ekgan-new.png' width="85%" height="85%"></p>
+<p align="center"><img src='img/mainfigure.png' width="85%" height="85%"></p>
 
 
 ## Citation
