@@ -33,4 +33,4 @@ We use only undersampled k-space for training and evaluation.
 ```
 
 ## Q&A
-If you have a question regarding the code, please email at jinho381 AT yonsei DOT ac DOT kr.
+If you have a question regarding the code, please email at jinho381 AT yonsei DOT ac DOT kr and hyeseongkim At yonsei DOT ac DOT kr.
