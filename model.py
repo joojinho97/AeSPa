@@ -8,7 +8,7 @@ from mamba_ssm import Mamba
 import random
 import os
 import pdb
-
+seed=2027
 
 class DoubleConv(nn.Module):
     def __init__(self, in_ch, out_ch,init_type='default'):
