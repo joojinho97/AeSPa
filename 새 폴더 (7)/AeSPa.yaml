@@ -1,0 +1,37 @@
+defaults:
+  - override hydra/job_logging: custom
+
+files:
+  k_space: /path/to/k_space
+  coil_map: /path/to/coil_map
+  mask: /path/to/mask
+  subject: subject_name
+  slice: slice_number
+paths:
+  save_folder: /path/to/save_folder
+
+models:
+  model: joint_training 
+        
+hyper_params: 
+  gpu: '1'
+  epochs: 2000
+  lr: 5e-4
+  aksmlr: 5e-5
+
+params:
+  real: 1 #real 0 : simulation, real 1 :raw
+  reduction_factor: 4 # accel
+  acs: 28
+  center_fraction: 0.09 # (rf4, 0.09) (rf8, 0.05) in brain, image shape (640, 320)
+  mask: 'gaussian1d'
+  crop_img_size: 320
+  cutoff_low_freq: 0.8
+  cutoff_high_freq: 200
+  kspace_masking : 2800000
+  selective_top_k : 400
+  csm_update_iteration : 10
+
+
+
+
