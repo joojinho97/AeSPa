@@ -31,7 +31,8 @@ We use only undersampled k-space for training and evaluation.
 }
 ```
 
-## Linkedin
-[Jinho Joo](https://www.linkedin.com/in/%EC%A7%84%ED%98%B8-%EC%A3%BC-218461216/)
+## Google scholar
+[Jinho Joo](https://scholar.google.com/citations?user=PlmGOWIAAAAJ&hl=ko)
+[Hyeseong Kim](https://scholar.google.com/citations?user=Vooc3lUAAAAJ&hl=ko)
 ## Q&A
 If you have a question regarding the code, please email at jinho381 AT yonsei DOT ac DOT kr and hyeseongkim At yonsei DOT ac DOT kr.
