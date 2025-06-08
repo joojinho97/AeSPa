@@ -33,6 +33,7 @@ We use only undersampled k-space for training and evaluation.
 
 ## Google scholar
 [Jinho Joo](https://scholar.google.com/citations?user=PlmGOWIAAAAJ&hl=ko)
+
 [Hyeseong Kim](https://scholar.google.com/citations?user=Vooc3lUAAAAJ&hl=ko)
 ## Q&A
 If you have a question regarding the code, please email at jinho381 AT yonsei DOT ac DOT kr and hyeseongkim At yonsei DOT ac DOT kr.
