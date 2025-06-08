@@ -22,15 +22,16 @@ We use only undersampled k-space for training and evaluation.
 
 ## Citation
 ```
-@inproceedings{TBD,
+@inproceedings{joo2025aespa,
   title={AeSPa : Attention-guided Self-supervised Parallel imaging for MRI Reconstruction},
-  author={TBD},
-  booktitle={TBD},
-  pages={TBD},
-  year={2025},
-  organization={TBD}
+  author={Joo, Jinho and Kim, Hyeseong and Won, Hyeyeon and Lee, Deukhee and Eo, Taejoon and Hwang, Dosik},
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={5217--5226},
+  year={2025}
 }
 ```
 
+## Linkedin
+[Jinho Joo](https://www.linkedin.com/in/%EC%A7%84%ED%98%B8-%EC%A3%BC-218461216/)
 ## Q&A
 If you have a question regarding the code, please email at jinho381 AT yonsei DOT ac DOT kr and hyeseongkim At yonsei DOT ac DOT kr.
