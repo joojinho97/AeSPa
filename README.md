@@ -20,7 +20,7 @@ We use only undersampled k-space for training and evaluation.
 <p align="center"><img src='img/mainfigure.png' width="85%" height="85%"></p>
 
 
-## Patch note
+## Patch Note
 <span style="font-size: 12px;"> [25.06.10] : We release our code!</span>
 
 
